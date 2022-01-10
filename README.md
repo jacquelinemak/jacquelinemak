@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @jacquelinemak
-- 👀 I’m interested in Data Science!
-- 🌱 I’m currently learning R and Python
-
+- 👀 I’m interested in.. Data Science!
+- 🌱 I’m currently learning.. R and Python
+- 😋 Fun fact: I'm a food blogger 
+- 📬 Asking me about .. anything!
 
 <!---
 jacquelinemak/jacquelinemak is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
